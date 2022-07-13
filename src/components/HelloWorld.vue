@@ -21,7 +21,7 @@ defineProps<{
       记录了我关于技术的思考。
       
       我的
-      <a target="_blank" href="#">知乎账号</a>，
+      <a target="_blank" href="https://www.zhihu.com/people/enophan">知乎账号</a>，
       分享了很多关于个人成长的内容。
       
       我的个人
@@ -29,7 +29,7 @@ defineProps<{
       这里的文章与知乎不太相同，这里记录着一些更加私人化的文章。
       
       我在
-      <a target="_blank" href="#">bilibili</a>
+      <a target="_blank" href="https://space.bilibili.com/441476378">bilibili</a>
       上也有账号，这里主要是我的视频作品。
 
       我的音乐作品可以在
@@ -37,9 +37,9 @@ defineProps<{
       收听。
 
       我会在
-      <a target="_blank" href="#">微博</a>
+      <a target="_blank" href="https://weibo.com/u/7415506599">微博</a>
       与
-      <a target="_blank" href="#">推特</a>
+      <a target="_blank" href="https://twitter.com/eno_phan">推特</a>
       分享一些日常事。
     </h3>
   </div>

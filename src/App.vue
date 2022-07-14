@@ -79,15 +79,13 @@ a,
   transition: 0.4s;
 }
 
-.wrapper
-h1 {
+.wrapper h1 {
   font-weight: 500;
-  font-size: 2.6rem;
+  font-size: 4rem;
   top: -10px;
 }
 
-.wrapper
-h3 {
+.wrapper h3 {
   font-size: 1.2rem;
 }
 
@@ -137,5 +135,4 @@ h3 {
   }
 
 }
-
 </style>
